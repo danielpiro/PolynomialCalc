@@ -1,2 +1,2 @@
-# PolynomialCalc
+# Polynomial Calculator
 simple polynomial calculator
